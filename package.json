@@ -1,0 +1,15 @@
+{
+  "name": "custom-dict-maker",
+  "version": "1.0.0",
+  "description": "It is a cutom dictionary maker project.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Preet Singh Chhabra",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "electron": "^1.7.5"
+  }
+}
